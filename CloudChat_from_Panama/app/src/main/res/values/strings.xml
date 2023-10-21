@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CloudChat_from_Panama</string>
+    <string name="send_button_name">Отправить</string>
+    <string name="edit_text_int">Введите сообщение</string>
+</resources>

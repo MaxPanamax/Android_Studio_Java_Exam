@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276616872834",
+    "project_id": "cloudchat-from-panama",
+    "storage_bucket": "cloudchat-from-panama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276616872834:android:23ea2c2f1cf6213835059b",
+        "android_client_info": {
+          "package_name": "com.example.cloudchat_from_panama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRv7Kau9FuFYLohQ3oGi7TXOZFUtdAZKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
